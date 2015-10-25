@@ -1,0 +1,362 @@
+<br />
+<b>Deprecated</b>:  Function eregi_replace() is deprecated in <b>/srv/www/larpbasteln/index.php</b> on line <b>22</b><br />
+46<br />
+<b>Deprecated</b>:  Function ereg() is deprecated in <b>/srv/www/larpbasteln/class.FastTemplate.php</b> on line <b>196</b><br />
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="./templates/main.css">
+        <TITLE>
+            Index.php
+        </TITLE>
+        
+    </head>
+    
+    <body>
+    
+        <div id="head">
+            <img src="logo.gif">
+        </div>
+    
+ 
+<div id='menu'> 
+        <ul><li> <a href='index.php?func=19'> <subtopic>Startseite</subtopic></a><li/><li> <a href='index.php?func=12'> <subtopic>Basteln - Waffen</subtopic></a><li/><li>
+	                                   <a href = 'index.php?func=31'>Armbrust Simpel</a>
+                                    </li>
+<li>
+	                                   <a href = 'index.php?func=33'>Armbrustbolzen</a>
+                                    </li>
+<li>
+	                                   <a href = 'index.php?func=43'>Sprengfalle f&uuml;r Waldl&auml;ufer</a>
+                                    </li>
+<li>
+	                                   <a href = 'index.php?func=46'>Duellpistole</a>
+                                    </li>
+<li>
+	                                   <a href = 'index.php?func=48'>Befiederungsger&auml;t</a>
+                                    </li>
+<li>
+	                                   <a href = 'index.php?func=49'>Pfeilbau</a>
+                                    </li>
+<li> <a href='index.php?func=13'> <subtopic>Basteln - Stoff</subtopic></a><li/><li> <a href='index.php?func=14'> <subtopic>Basteln - Zubeh&ouml</subtopic></a><li/><li> <a href='index.php?func=15'> <subtopic>Basteln - Kurioses</subtopic></a><li/><li> <a href='index.php?func=16'> <subtopic>Downloads</subtopic></a><li/></ul></div>
+        
+        <div id="content">
+             <h1> Duellpistole</h1>                                <h1>Anleitung zum Bau einer larptauglichen Duellpistole</h1><br />
+<h2>Materialliste:</h2><br />
+<ul><br />
+Schaft:<br />
+<li>2 Sperrholzbretter 10 mm (Birke Multiplex am Besten)</li><br />
+<li>1 Sperrholzbrett 4mm</li><br />
+<li>4 mm D&uuml;belholz</li><br />
+Mechanik<br />
+<li>1 Aluminiumstreifen 3x50x1000 mm</li><br />
+<li>1 flexibler Metallstreifen (oder S&auml;geblatt) 3mm breit</li><br />
+<li>2 Unterlegscheiben</li><br />
+<li>4x25 metrische Schrauben und passende H&uuml;lsenmuttern</li><br />
+Zierrat<br />
+<li>Alu oder Messingblech 0.4 mm</li><br />
+<li>Alurohr 16mm </li><br />
+<li>Zubeh&ouml;r zum Zinngiessen</li><br />
+<li>Einmachgummis (Munition)</li><br />
+<br />
+<h2>Werkzeugliste</h2><br />
+<br />
+<li>Stichs&auml;ge</li><br />
+<li>Standbohrmaschine</li><br />
+<li>Decupiers&auml;ge</li><br />
+<li>Feilen und Raspeln</li><br />
+<li>Schleifpapier 80er bis 250er Korn</li><br />
+<li>Blechschere</li><br />
+</ul><br />
+<br />
+<br />
+                            <table border=0 cellpadding=20 width="90%">
+<tr valign=top><td valign=top>
+Um an ein "Schnittmuster" einer Pistole zu kommen, kann man einfach die Bildersuche der Lieblings-Suchmaschine bem&uuml;hen. Das Bild wird auf die erforderliche Gr&ouml;sse Skaliert (etwa 40 cm in diesem Fall), in schwarz-weis konvertiert und z.B. mit "Kanten finden" in Gimp oder Photoshop (da wird das vermutlich anders heissen) bearbeitet, bis man die Umrisse deutlich hat. So Geschehen bei dem Bild links (das Original stelle ich aus Copyright-Grunden nicht hier her ;))<br />
+Bei Gelegenheit werde ich allerdings auch 1:1-Scans der Vorlagen in den Download-bereich stellen, so da&szlig; man nur noch ausschneiden und ausdrucken mu&szlig;.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0540.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0540.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0540.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Die Vorlage wird auf drei Sperrholzbretter &uuml;bertragen (zweimal 10 mm Birkensperrholz, einmal 4 mm Sperrholz).<br />
+Die Bretter werden miteinander verd&uuml;belt um ein Verrutschen zu verhindern. 
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0541.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0541.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0541.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Das Ganze wird dann mit einer Stichs&auml;ge ausges&auml;gt. An besonders engen Rundungen oder Ecken wird ein "Wendeloch" gebohrt; das erleichtert das S&auml;gen erheblich.<br />
+
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0542.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0542.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0542.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Fertig mit Auss&auml;gen. Optimalerweise legt man schon vor dem S&auml;gen die St&uuml;cke in die Reihenfolge, die sie nachher in der fertigen Pistole haben; die Dicken aussen, das D&uuml;nne innen.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0543.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0543.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0543.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Die Teile werden mit 4er D&uuml;beln passend fixiert. Das erleichtet das sp&auml;tere Arbeiten.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0544.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0544.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0544.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Jetzt k&uuml;mmern wir uns um die Mechanik. Aus Pappe werden erstmal die Prototypen von Abzug und Nuss gebastelt und mit Stecknadeln auf dem mittleren Holzst&uuml;ck befestigt. Dann kann man auch gleich sehen, wo die Bohrl&ouml;chen f&uuml;r die Schrauben hinm&uuml;ssen, wenn die Teile passgenau aufgesteckt sind.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0545.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0545.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0545.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Die Prototypen werden auf einen Aluminiumstreifen &uuml;bertragen (40x4x100 mm, erh&auml;ltlich im Baumarkt).<br />
+Die L&ouml;cher werden mit einem Nagel vom Pappmodell durchgeschlagen.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0547.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0547.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0547.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Die Metallteile werden mit einer Dekupiers&auml;ge&sup1; ausges&auml;gt und mit einer Standbohrmaschine gebohrt. Der Dorn am Abzug dient als Ansatz f&uuml;r die R&uuml;ckstellfeder.<br />
+<br />
+<br />
+<br />
+&sup1;versucht es nicht ohne; mit einer Laubs&auml;ge geht es auch, das ist allerdings was f&uuml;r geduldigere Leute als mich
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0549.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0549.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0549.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Mit Schrauben kann man die Teile nun auf dem Mittelst&uuml;ck befestigen und auf korrekten Sitz pr&uuml;fen. Die Einzelteile sollten m&ouml;glichst wenig Spiel haben.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0550a.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0550a.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0550a.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Jetzt k&uuml;mmern wir uns um die R&uuml;ckholfeder f&uuml;r den Abzug. <br />
+Optimalerweise verwendet man dazu irgendeinen flexiblen Stahlstreifen. Mein Liebling sind die Streifen, die man ab und an auf der Stra&szlig;e findet (abgefallene Teile von Kehrmaschinen? Ich denke schon). Leider muss man sowas zuf&auml;llig bei Hand haben.. <br />
+also wird man sich in der Regel einen Streifen basteln m&uuml;ssen. Das geht hervorragend mit einem S&auml;geblatt, das einfach mit dem Dremel auf die ben&ouml;tigte Breite heruntergeschliffen wird. Also ein wenig schmaler als das Mittelbrett, mir einer zus&auml;tzlichen Verschlankung, um an den Unterlegscheiben vorbei zu kommen, auf denen die Mechanik ruht (dazu sp&auml;ter mehr). 
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0550b.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0550b.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0550b.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Der Metallstreifen wir am Ende leicht gebogen, damit er nachher nicht aus seinem Halteschlitz rutschen kann.<br />
+Das Prinzip der R&uuml;ckstellmechanik sollte rechts zu erkennen sein.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0550c.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0550c.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0550c.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Die Schrauben habe ich inzwischen durch 4er D&uuml;belh&ouml;lzer ersetzt; da die Metallteile nachher von 4 mm Schrauben gehalten werden sollen, passt das ganz gut ;)
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0551.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0551.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0551.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Nun zeichnet man die Mechanik einmal in Ruhestellung und einmal in "ausgel&ouml;st" auf das Mittelbrett; legt man beides &uuml;bereinander, hat man den Platz, in dem sich die Mechanik bewegen wird.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0552a.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0552a.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0552a.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Den Schlitz f&uuml;r die Feder bringt man am besten ein, indem man die Feder passend auf das Brett legt und mit dem Hammer ein wenig in das Holz schl&auml;gt. <br />
+Danach werden wieder die Ecken ausgebohrt und das Ganze ausges&auml;gt.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0552b.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0552b.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0552b.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Und schon stehe ich vor einem Problem.<br />
+Das Mittelbrett war in etwa 5 mm dich, meine Alustreifen 3 mm; das l&auml;sst 2 mm Luft zum Wackeln (was ich nat&uuml;rlich nicht will).<br />
+Deswegen muss ich die Mechanik mit Unterlegscheiben "unterf&uuml;ttern", die so abgeschliffen worden sind (viel Arbeit mit einer Feile), dass sie die  freie Beweglichkeit der Teile nicht st&ouml;ren.<br />
+Im Bild sieht man auch recht gut die Anbringung der Feder, die einfach in den einges&auml;gten Schlitz gesteckt wird.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0552c.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0552c.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0552c.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Soweit passt das alles, daher kleben wir erstmal die beiden Mittelteile auf das eine Seitenteil.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0553.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0553.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0553.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Jetzt werden von Unten in der Mitte zwei 4 mm-L&ouml;cher durchgebohrt; die halten nachher das Alurohr, das den Lauf darstellt. Wahrscheinlich wird man die Schruben ein wenig versenken m&uuml;ssen (mit einem Bohrer, der ein wenig gr&ouml;sser ist als der Schrubenkopf nachbohren), damit sie nicht rausstehen.<br />
+Danach wird ein Absatz in den Schaft ges&auml;gt,der sp&auml;ter den Lauf aufnehmen soll. Achtung:<br />
+Der Absatz darf nicht so tief sein, wie der Lauf dick ist, sondern etwa 4-6 mm flacher, da der Lauf nachher in einer Rinne zu liegen kommt (die ja nochmal H&ouml;he wegnimmt).<br />
+<br />
+Bei der Gelegenheit kann man auch gleich das Alurohr zuschneiden; es sollte so lang sein, dass das Einmachgummi von Nuss zum Ende des Rohres gut gespannt ist.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0554.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0554.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0554.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Damit das Rohr auch sauber im Schaft liegt, wird einer Rinne in den Schaft gefr&auml;st; das geht hervorragend mit einem Kugel-Raspelkopf f&uuml;r die Bohrmaschine (gibt's im Baumarkt meist im Set mit anderen Raspelaufs&auml;tzen) und einer Standbohrmaschine. Man muss ein wenig basteln, bis man die richtige H&ouml;he gefunden hat (Abfallholz hilft ;)), dann kann man den Musketenrohling einfach auf die Platte der Bohrmaschine legen und an der rotierenden Raspel vorbeischieben.<br />
+Das ist wahrscheinlich der Teil beim Basteln, der das meiste Fingerspitzengef&uuml;hl ben&ouml;tigt.<br />
+Zum Abschluss (die Ecken lassen sich nicht raspeln, die muss man mit einem Stemmeisen o.&Auml;. ausschneiden) wird das Alurohr eingepasst und so einges&auml;gt, dass sich die Schlossmechanik frei bewegen kann.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0555.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0555.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0555.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Bevor man anf&auml;ngt, den Rohling mit der Raspel zu bearbeiten, sollte man sich die "H&ouml;henlinie" zum abraspeln einzeichnen, das hilft beim Feilen enorm.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0556.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0556.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0556.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Nun wird der Rohling geraspelt..
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0558.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0558.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0558.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+gefeilt
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0559.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0559.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0559.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+und mit mehreren immer feiner werdenden Schleifpapieren bearbeitet, bis er sich samtweich anf&uuml;hlt. Ich fange in der Regel mit 80er Korn an und arbeite mich dann hoch zum 240er.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0562.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0562.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0562.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Damit sie nicht klappern werden die Unterlegscheiben eingeklebt.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0573.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0573.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0573.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Jetzt werden die Einzelteile gebeizt (ich hatte versehentlich eine Acryl-Beitze erwischt; die Farbe allerdings war so toll, dass ich es dabei belassen habe). <br />
+In den D&uuml;bell&ouml;chern sind zu langeD&uuml;bel, diese halten den Abstand von Holz zu Unterlage.<br />
+<br />
+Die Teile werden &uuml;brigends unzusammengebaut gebeizt, damit ich an sonsten die eingebauten Metallteile festkleben oder verdrecken w&uuml;rde.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0575.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0575.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0575.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Und das ganze nach der 3. Schicht. <br />
+Da wie gesgt meine "Beize" eigentlich ein Lack war, musste ich nach jedem Druchgang die Nasen an der Unterseite abschneiden/schleifen. Sonst h&auml;tten die Einzeteile nachher nicht zusammengepasst. <br />
+Wie man siht, habe ich mehr als eine Pistole gleichzeitig gebaut (sollte  ja ein Duellset werden); sorgf&auml;ltiges Beschriften der Einzelteile erleichtert die Arbeit. Zu welcher Pistole geh&ouml;rte doch gleich der Abzug da?
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0576.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0576.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0576.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+F&uuml;r die Schlossbleche nimmt man ein Messingblech in der St&auml;rke 0.4 mm. Das gibt es z.B. bei eBay zu kaufen, ich habe f&uuml;r ungef&auml;hr ein Din A4-Blatt 3,50 € gezahlt.<br />
+Auch hier hat sich ein Fehler eingeschlichen, den ich erst sp&auml;ter bemerkt habe:<br />
+Die Einzelteile m&uuml;ssen, anders als im Bild, spiegelbildlich zu einander auf das Blech gezeichnet werden. Das hat folgenden Hintergrund:<br />
+Die Teile werden mit einer Blechschere ausgeschnitten (zum S&auml;gen ist das Material viel zu d&uuml;nn). Das hinterl&auml;sst eine Biegekante beim Schneiden die sonst auf der einen Seite der Pistole nach aussen st&uuml;nde.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0579.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0579.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0579.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Die Schlossbleche werden mit einer Blechschere ausgeschnitten. Eventuell  k&ouml;nnte man sie auch mit einer Laubs&auml;ge ausschneiden.<br />
+Beim Ausschneiden schneidet man am besten die Bleche erstmal grob zu, und macht dann erst die Feinarbeit; damit biegen sich die Sp&auml;ne besser weg und man verbiegt das Schlossblech nicht so.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0580.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0580.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0580.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Die Lage der L&ouml;cher schl&auml;gt man am Besten mit einem angespitzen D&uuml;belholz und einem Hammer durch nachdem man die Bleche passend an die jeweilige Seite gehalten hat. Danach werden sie mit einem 5,5 mm Bohrer ausgebohrt. 
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0581.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0581.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0581.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Die Bleche lassen sich trefflich mit einem Dremel gravieren (wie man siht habe ich es nicht besonders mit der feinmotorischen Kunst). Poliert habe ich sie mit Stahlfix unt K&uuml;chenpapier.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0582.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0582.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0582.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Jetzt ist der grosse Moment da. Die beiden H&auml;lften werden verleimt und die Einzelteile zum Zusammenbau zurechtgelegt. Die jeweils verwendeten Schrauben liegen neben den Einzelteilen.<br />
+ - Die exakten Stellen f&uuml;r die L&ouml;cher im Lauf bekommt man, indem man den Lauf passend in den Schaft legt, mit Tesafilm fixiert, die Schrauben in die L&ouml;cher steckt und einmal kurz mit dem Hammer dagegen schl&auml;gt. Das hinterl&auml;sst saubere Bohrmarken auf dem Lauf.<br />
+ - Die Zierst&uuml;cke (Hahn und Pulverpfanne) werden aus Zinn gegossen (<a href="http://www.anger17.de/larpbasteln/index.php?func=45">[Anleitung zum Zinngiessen]</a>)<br />
+ - Die Mechanik wird mit 4er metrischen Schrauben und den passenden Hohlschrauben eingebaut. Da der Aussendurchmesser der Hohlschrauben gr&ouml;sser ist als 4 mm wird die eine Seite auf 5,5 mm aufgebohrt. Das ist ein wenig frickelig, das bekommt ihr aber schon hin. <br />
+ - das eine Ende des Schlossbleches wird mit einer optisch passenden 2x16 Holzschraube befestigt; das andere Ende wird von den Verzierungen gehalten (die Bohrl&ouml;cher sind trotzdem zu sehen, das ergab sich erst im Verlauf des Bastelns)
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0601.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0601.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0601.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Das Schlossblech ist befestigt, und die Mechanik verschraubt. Achtung, wenn die Schrauben zu fest sind, kann es sein, dass sie die Mechanik einklemmen, dann gibt's eine Ladehemmung.<br />
+Jetzt kann man die Verzierungen anbringen. Wie bei allen anderen L&ouml;chern in dem Werkst&uuml;ck gilt: Unbedingt vorbohren. <br />
+Eine Schraube, die das Holz spaltet, ist das &auml;rgerlichste was einem jetzt passieren kann.<br />
+Dem aufmerksamen Beobachter f&auml;llt eventuell auf, dass die Schrauben f&uuml;r die Verzierungen abges&auml;gt sind; das war n&ouml;tig, weil sie sonst in zum Teil in die Mechanik reingeragt (und diese somit blockiert) h&auml;tten.<br />
+Das Abschneiden gestaltet sich mit einem Dremel mit Trennscheibe recht einfach.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0617.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0617.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0617.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Und hier ist das Prachtst&uuml;ck zusammengebaut. Wer will, kann noch kleine Kuhlen vorne in den Lauf schleifen, das macht das Laden erheblich einfacher.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0618.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0618.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0618.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Und nochmal in gespanntem Zustand. 
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0619.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0619.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0619.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Jetzt verpackt man das ganze noch in eine schnell zusammengebastelte Holzkiste (die Anleitung dazu spare ich mir jetzt mal), legt ein wenig Munition (Gummiringe von Einmachgl&auml;sern um Holzst&uuml;ckchen gewickelt) bei und richtet das Ganze appetitlich an.
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0620.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0620.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0620.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+Wer will, schreibt jetzt noch einen markigen Spruch auf den Deckel ("Ehre oder Tod" in diesem Fall) und jetzt braucht ihr nur noch jemanden zu suchen, der euch so beleidigt, da&szlig; ihr ihn zum Duell fordern k&ouml;nnt.<br />
+
+</td><td valign=top>
+<img src="./bilder/duellpistole/S_IMG_0621.JPG"><br>
+<a href="./bilder/duellpistole/M_IMG_0621.JPG"target=_blank>[640]</a>
+<a href="./bilder/duellpistole/L_IMG_0621.JPG"target=_blank>[1024]</a>
+</td></tr>
+</table>
+
+        </div>
+    
+    </body>
+</html>

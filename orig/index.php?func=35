@@ -1,0 +1,103 @@
+<br />
+<b>Deprecated</b>:  Function eregi_replace() is deprecated in <b>/srv/www/larpbasteln/index.php</b> on line <b>22</b><br />
+35<br />
+<b>Deprecated</b>:  Function ereg() is deprecated in <b>/srv/www/larpbasteln/class.FastTemplate.php</b> on line <b>196</b><br />
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="./templates/main.css">
+        <TITLE>
+            Index.php
+        </TITLE>
+        
+    </head>
+    
+    <body>
+    
+        <div id="head">
+            <img src="logo.gif">
+        </div>
+    
+ 
+<div id='menu'> 
+        <ul><li> <a href='index.php?func=19'> <subtopic>Startseite</subtopic></a><li/><li> <a href='index.php?func=12'> <subtopic>Basteln - Waffen</subtopic></a><li/><li> <a href='index.php?func=13'> <subtopic>Basteln - Stoff</subtopic></a><li/><li> <a href='index.php?func=14'> <subtopic>Basteln - Zubeh&ouml</subtopic></a><li/><li>
+	                                   <a href = 'index.php?func=45'>Zinngie&szlig;en (Kautschukform)</a>
+                                    </li>
+<li>
+	                                   <a href = 'index.php?func=35'>A-Lampe</a>
+                                    </li>
+<li>
+	                                   <a href = 'index.php?func=44'>Zinngie&szlig;en mit Gipsform</a>
+                                    </li>
+<li> <a href='index.php?func=15'> <subtopic>Basteln - Kurioses</subtopic></a><li/><li> <a href='index.php?func=16'> <subtopic>Downloads</subtopic></a><li/></ul></div>
+        
+        <div id="content">
+             <h1> A-Lampe</h1><table border=0 cellpadding=20 width="90%">
+<tr valign=top><td valign=top>
+
+</td><td valign=top>
+<img src="./bilder/lampe/S_IMG_0148.JPG"><br>
+<a href="./bilder/lampe/M_IMG_0148.JPG"target=_blank>[640]</a>
+<a href="./bilder/lampe/L_IMG_0148.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+
+</td><td valign=top>
+<img src="./bilder/lampe/S_IMG_0150.JPG"><br>
+<a href="./bilder/lampe/M_IMG_0150.JPG"target=_blank>[640]</a>
+<a href="./bilder/lampe/L_IMG_0150.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+
+</td><td valign=top>
+<img src="./bilder/lampe/S_IMG_0152.JPG"><br>
+<a href="./bilder/lampe/M_IMG_0152.JPG"target=_blank>[640]</a>
+<a href="./bilder/lampe/L_IMG_0152.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+
+</td><td valign=top>
+<img src="./bilder/lampe/S_IMG_0153.JPG"><br>
+<a href="./bilder/lampe/M_IMG_0153.JPG"target=_blank>[640]</a>
+<a href="./bilder/lampe/L_IMG_0153.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+
+</td><td valign=top>
+<img src="./bilder/lampe/S_IMG_0155.JPG"><br>
+<a href="./bilder/lampe/M_IMG_0155.JPG"target=_blank>[640]</a>
+<a href="./bilder/lampe/L_IMG_0155.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+
+</td><td valign=top>
+<img src="./bilder/lampe/S_IMG_0155b.JPG"><br>
+<a href="./bilder/lampe/M_IMG_0155b.JPG"target=_blank>[640]</a>
+<a href="./bilder/lampe/L_IMG_0155b.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+
+</td><td valign=top>
+<img src="./bilder/lampe/S_IMG_0156.JPG"><br>
+<a href="./bilder/lampe/M_IMG_0156.JPG"target=_blank>[640]</a>
+<a href="./bilder/lampe/L_IMG_0156.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+
+</td><td valign=top>
+<img src="./bilder/lampe/S_IMG_0157.JPG"><br>
+<a href="./bilder/lampe/M_IMG_0157.JPG"target=_blank>[640]</a>
+<a href="./bilder/lampe/L_IMG_0157.JPG"target=_blank>[1024]</a>
+</td></tr>
+<tr valign=top><td valign=top>
+
+</td><td valign=top>
+<img src="./bilder/lampe/S_IMG_0158.JPG"><br>
+<a href="./bilder/lampe/M_IMG_0158.JPG"target=_blank>[640]</a>
+<a href="./bilder/lampe/L_IMG_0158.JPG"target=_blank>[1024]</a>
+</td></tr>
+</table>
+
+        </div>
+    
+    </body>
+</html>

@@ -1,0 +1,47 @@
+<br />
+<b>Deprecated</b>:  Function eregi_replace() is deprecated in <b>/srv/www/larpbasteln/index.php</b> on line <b>22</b><br />
+42<br />
+<b>Deprecated</b>:  Function ereg() is deprecated in <b>/srv/www/larpbasteln/class.FastTemplate.php</b> on line <b>196</b><br />
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="./templates/main.css">
+        <TITLE>
+            Index.php
+        </TITLE>
+        
+    </head>
+    
+    <body>
+    
+        <div id="head">
+            <img src="logo.gif">
+        </div>
+    
+ 
+<div id='menu'> 
+        <ul><li> <a href='index.php?func=19'> <subtopic>Startseite</subtopic></a><li/><li> <a href='index.php?func=12'> <subtopic>Basteln - Waffen</subtopic></a><li/><li> <a href='index.php?func=13'> <subtopic>Basteln - Stoff</subtopic></a><li/><li> <a href='index.php?func=14'> <subtopic>Basteln - Zubeh&ouml</subtopic></a><li/><li> <a href='index.php?func=15'> <subtopic>Basteln - Kurioses</subtopic></a><li/><li> <a href='index.php?func=16'> <subtopic>Downloads</subtopic></a><li/><li>
+	                                   <a href = 'index.php?func=42'>download kobold</a>
+                                    </li>
+</ul></div>
+        
+        <div id="content">
+             <h1> download kobold</h1><table border=0 cellpadding=20 width="90%">
+<tr valign=top><td valign=top>
+Mein Liederbuch "Der fl&uuml;chtende Kobold" zum runterladen. Dann muss ich es nicht immer per Email verschicken.<br />
+<br />
+Einige Worte zum Buch:<br />
+Das Buch ist durch zahllose Umstrukturierungen, Datenverluste und Rekonstruktionen gelaufen. Viele der Liedtexte sind im Fundst&uuml;cke aus dem Internet. Und die Liedreferenzen sind irgenwann mal verschwunden...<br><br />
+<br />
+Wenn also jemand sein Lied in diesem Liederbuch finden sollte und erbost ist ob der fehlenden namentlichen Erw&auml;hnung, m&ouml;ge er mir bitte eine EMail schreiben (je (at) anger17.de), er wird selbstverst&auml;ndlich nachgetragen.<br><br />
+ <br><br />
+<br />
+Download ist <a href='http://www.anger17.de/larpbasteln/downloads/Der%20fl%fcchtende%20Kobold%202006-06.pdf'>[hier]</a>
+</td><td valign=top>
+<img src="./bilder/kobold/S_KOBOLD.JPG"><br>
+</td></tr>
+</table>
+
+        </div>
+    
+    </body>
+</html>

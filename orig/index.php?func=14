@@ -1,0 +1,40 @@
+<br />
+<b>Deprecated</b>:  Function eregi_replace() is deprecated in <b>/srv/www/larpbasteln/index.php</b> on line <b>22</b><br />
+14<br />
+<b>Deprecated</b>:  Function ereg() is deprecated in <b>/srv/www/larpbasteln/class.FastTemplate.php</b> on line <b>196</b><br />
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="./templates/main.css">
+        <TITLE>
+            Index.php
+        </TITLE>
+        
+    </head>
+    
+    <body>
+    
+        <div id="head">
+            <img src="logo.gif">
+        </div>
+    
+ 
+<div id='menu'> 
+        <ul><li> <a href='index.php?func=19'> <subtopic>Startseite</subtopic></a><li/><li> <a href='index.php?func=12'> <subtopic>Basteln - Waffen</subtopic></a><li/><li> <a href='index.php?func=13'> <subtopic>Basteln - Stoff</subtopic></a><li/><li> <a href='index.php?func=14'> <subtopic>Basteln - Zubeh&ouml</subtopic></a><li/><li>
+	                                   <a href = 'index.php?func=45'>Zinngie&szlig;en (Kautschukform)</a>
+                                    </li>
+<li>
+	                                   <a href = 'index.php?func=35'>A-Lampe</a>
+                                    </li>
+<li>
+	                                   <a href = 'index.php?func=44'>Zinngie&szlig;en mit Gipsform</a>
+                                    </li>
+<li> <a href='index.php?func=15'> <subtopic>Basteln - Kurioses</subtopic></a><li/><li> <a href='index.php?func=16'> <subtopic>Downloads</subtopic></a><li/></ul></div>
+        
+        <div id="content">
+             <h1> &Uuml;bersicht Zubeh&ouml;r</h1><table border=0 cellpadding=20 width="90%">
+</table>
+
+        </div>
+    
+    </body>
+</html>
