@@ -20,8 +20,4 @@ for i in `cat $1`; do
 
   sed -i "s/$i/$fn/g" $filename
   count=$(($count+1))
-  git mv bilder/$basename/$i bilder/$basename/$fn
-
 done
-echo "Next file"
-read X
