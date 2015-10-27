@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 filename=${1%.img}
 basename=${filename%.html}
@@ -10,11 +10,15 @@ fi
 
 count=0
 
-for i in `cat $1` do
-	number=`printf "%02d" $count`
-	fn=$basename-$numnber.jpg
-	sed "s/$i/$fn/g" $filename
-	echo "continue?"
-	read X
+for i in `cat $1`; do
+
+  n=$(printf "%02d" $count)
+  fn=$basename-$n.jpg
+
+	echo $fn
+	echo $i
+
+  sed -i "s/$i/$fn/g" $filename
+  count=$(($count+1))
 done
 
