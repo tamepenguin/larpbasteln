@@ -1,0 +1,304 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2015-10-29 14:22:31:09
+categories: larp waffen
+---
+              Pfeilbau
+
+Wir fangen mit dem Pfeilschaft an; ich habe hier ein 8 mm Dübelholz verwendet. 
+Dagegen sprechen mehrere Dinge:
+Wenn man einen echten Pfeilschaft kauft (kostet etwa 1,24€ statt 1€), ist der nicht nur gerade (es war ziemlich anstrengend, mehrere echt gerade Dübelhölzer in dem Baumarkt zu finden, normalerweise sind die sehr krumm), sondern auch dafür geeignet, von einem Bogen abgeschossen zu werden; man kann sich also somit drauf verlassen, dass der Pfeil nicht beim Abschuss bricht. Dübelhölzer dagegen müssen zwingend mit Tesafilm, Paketklebeband oder Gewebeband umklebt werden.
+
+Jeder, der bei mir versucht, mit nicht umklebten Dübelholz-Pfeilen einzuchecken, bekommt die Dinger um die Ohren geschlagen.
+Mir ist selbst mal ein Pfeil beim Abschuss gebrochen; die gepolsterte Spitze fiel zu Boden, und der nun scharfe Pfeil flog weiter und blieb (glücklicherweise) in einer Holzwand(!) stecken.
+
+="./bilder/pfeilbau1/S_IMG_0869.JPG">
+="./bilder/pfeilbau1/M_IMG_0869.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0869.JPG"target=_blank>[1024]
+
+
+Nocken (das orange Plastikteil, in das die Sehne kommt), Vanes (Plastikfedern) und Pfeilschäfte bekommt man bei dem berühmten Online-Auktionshaus oder in einem Onlineshop für relativ wenig Geld.
+Die Nock kostet etwa 15 Cent, die Vanes (drei pro Pfeil) kosten zusammen etwa 50 Cent. Insbesondere die Vanes sind eine Ausgabe, die sich echt lohnt. Ich hatte noch nie derartig gut fleigende Pfeile.
+
+Als erstes wird der Schaft angespitzt, bis er zur Nock passt. Das macht man am besten mit einem passenden Spitzer, den man für etwa 5€ mitkaufen kann, wenn man die Nocks und die Vanes bestellt :)
+Ansonsten ist man auf Feile (oder besser) auf einen Bandschleifer und echt viel Fingersptzengefühl angewiesen, um den Winkel richtig hinzubekommen.
+
+="./bilder/pfeilbau1/S_IMG_0870.JPG">
+="./bilder/pfeilbau1/M_IMG_0870.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0870.JPG"target=_blank>[1024]
+
+
+Die Nock wird mit "Uhu Hart" auf den Schaft geklebt.
+
+="./bilder/pfeilbau1/S_IMG_0872.JPG">
+="./bilder/pfeilbau1/M_IMG_0872.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0872.JPG"target=_blank>[1024]
+
+
+Eine Alternative ist eine selbstgesägte Nock. Am besten stellt man die her, indem man 3 Sägeblätter zusammen klebt, damit der Schnitt breit genug für die Bogensehne wird.
+
+="./bilder/pfeilbau1/S_IMG_0873.JPG">
+="./bilder/pfeilbau1/M_IMG_0873.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0873.JPG"target=_blank>[1024]
+
+
+Und so sieht das Ganze dann als "Nocksäge" aus.
+
+="./bilder/pfeilbau1/S_IMG_0874.JPG">
+="./bilder/pfeilbau1/M_IMG_0874.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0874.JPG"target=_blank>[1024]
+
+
+Der Schaft wird in einem Schraubstock eingespannt...
+
+="./bilder/pfeilbau1/S_IMG_0876.JPG">
+="./bilder/pfeilbau1/M_IMG_0876.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0876.JPG"target=_blank>[1024]
+
+
+und die Nock gesägt. Danach wird alles mit Schmirgelpapier sorgfältig geglättet.
+
+="./bilder/pfeilbau1/S_IMG_0878.JPG">
+="./bilder/pfeilbau1/M_IMG_0878.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0878.JPG"target=_blank>[1024]
+
+
+Damit die Nock nicht von der Sehne beim Abschuss gespalten wird, sollte sie mit Zwirn umwickelt werden.
+Wenn man eine Schlaufe mit einwickelt, kann man das Ende des Fadens nach dem Ummwickeln komfortablen unter den Wicklungen mit durchziehen.
+Ich werde versuchen, noch eine passende Extraanleitung zum Nock selbersägen zu verfassen, wenn ich dazu komme :)
+
+="./bilder/pfeilbau1/S_IMG_0879.JPG">
+="./bilder/pfeilbau1/M_IMG_0879.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0879.JPG"target=_blank>[1024]
+
+
+Um die Wicklung zu fixieren, gibt man einen Tropfen Kleber oder Leim auf die Wicklung und massiert ihn zart ein :)
+
+="./bilder/pfeilbau1/S_IMG_0881.JPG">
+="./bilder/pfeilbau1/M_IMG_0881.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0881.JPG"target=_blank>[1024]
+
+
+Danach wird der Pfeil befiedert (siehe Befiederungsgerät)
+
+="./bilder/pfeilbau1/S_IMG_0882b.JPG">
+="./bilder/pfeilbau1/M_IMG_0882b.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0882b.JPG"target=_blank>[1024]
+
+
+Um das Bohren mit der Standbohrmaschine zu erleichtern, schleift man den Sektkorken vorher leicht flach. Dazu bietet sich ein Bandschleifer an, den wir im Verlaufe dieser Bastelei noch häufiger brauchen werden können.
+
+="./bilder/pfeilbau1/S_IMG_0886b.JPG">
+="./bilder/pfeilbau1/M_IMG_0886b.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0886b.JPG"target=_blank>[1024]
+
+
+Der Korken wird mit einem 8 mm Loch versehen. Absolut senkrecht und mittit ist Pflicht, wenn der Pfeil nachher ordenlich fliegen soll :)
+
+="./bilder/pfeilbau1/S_IMG_0887.JPG">
+="./bilder/pfeilbau1/M_IMG_0887.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0887.JPG"target=_blank>[1024]
+
+
+Der Korken wird ungefähr so weit hochgebohrt. 
+Wenn man den Schaft ein wenig anrundet, macht man sich das Leben beim Einstecken wesentlich leichter.
+
+="./bilder/pfeilbau1/S_IMG_0888.JPG">
+="./bilder/pfeilbau1/M_IMG_0888.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0888.JPG"target=_blank>[1024]
+
+
+Um auszusortieren, welche Korken gerade gebohrt worden sind (auch bei Verwendung einer Standbohrmaschine nicht auszuschliessen, schliesslich handelt es sich um ein Naturprodukt), kann man einen Akkuschrauber verwenden.
+
+="./bilder/pfeilbau1/S_IMG_0889.JPG">
+="./bilder/pfeilbau1/M_IMG_0889.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0889.JPG"target=_blank>[1024]
+
+
+In den Akkuschrauber wird ein Stück Dübel eingespannt.Der Korken wird Aufgesteckt, und wenn man nun aufs Knöpchen drückt, sieht man ausgesprochen rasch, welcher Korken gerade gebohrt wurde und welcher nicht.
+
+="./bilder/pfeilbau1/S_IMG_0890.JPG">
+="./bilder/pfeilbau1/M_IMG_0890.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0890.JPG"target=_blank>[1024]
+
+
+An den Rand des Loches im Korken wird Holzleim gegeben und der Schaft eingesteckt. Danach trocknen lassen.
+
+="./bilder/pfeilbau1/S_IMG_0893.JPG">
+="./bilder/pfeilbau1/M_IMG_0893.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0893.JPG"target=_blank>[1024]
+
+
+Jetzt wird ein Stück Isolationsrohr (mit Innendurchmesser passend zum Sektkorken) abgeschnitten. Das Stück sollte etwa 2-3 cm länger sein als der Korken.
+Die seltsame Winkelkonstruktion links im Bild hilft dabei, das Rohr wirklich gerade abzuschneiden.
+Mit dem 90 Grad Winkel steht und fällt die Geradigkeit des Pfeils und damit seine Präzision.
+
+="./bilder/pfeilbau1/S_IMG_0894.JPG">
+="./bilder/pfeilbau1/M_IMG_0894.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0894.JPG"target=_blank>[1024]
+
+
+Passend geschnitten.
+
+="./bilder/pfeilbau1/S_IMG_0896.JPG">
+="./bilder/pfeilbau1/M_IMG_0896.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0896.JPG"target=_blank>[1024]
+
+
+Jetzt wird der Korken mit reichlich Pattes eingeschmiert und in das Isorohr geschoben. Oberkante des Korkens und des Isorohrs sollten bündig abschliessen.
+
+="./bilder/pfeilbau1/S_IMG_0897.JPG">
+="./bilder/pfeilbau1/M_IMG_0897.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0897.JPG"target=_blank>[1024]
+
+
+Wenn man dann genug davon hat, lässt man das ganze am besten über Nacht trocknen.
+
+="./bilder/pfeilbau1/S_IMG_0898.JPG">
+="./bilder/pfeilbau1/M_IMG_0898.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0898.JPG"target=_blank>[1024]
+
+
+Jetzt kommt noch eine Zwisachenlage Isomatte auf den Korken.
+
+="./bilder/pfeilbau1/S_IMG_0899.JPG">
+="./bilder/pfeilbau1/M_IMG_0899.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0899.JPG"target=_blank>[1024]
+
+
+Beides grosszügig mit Pattex einschmieren, leicht antrocknen lassen und feste andrucken. So wie's auf der Packung steht.
+
+="./bilder/pfeilbau1/S_IMG_0900.JPG">
+="./bilder/pfeilbau1/M_IMG_0900.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0900.JPG"target=_blank>[1024]
+
+
+Das ganze wird mit einem Bastelmesser rundgeschnitten und schonmal Vierecke aus Schaumstoff (Dicke 4 cm, als enntsprechend Dicke Matte kaufen) passend mit leichtem überstand ausgeschnitten.
+
+="./bilder/pfeilbau1/S_IMG_0902.JPG">
+="./bilder/pfeilbau1/M_IMG_0902.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0902.JPG"target=_blank>[1024]
+
+
+Wie gehabt, einschmieren, trocknenlassen und andrücken.
+
+="./bilder/pfeilbau1/S_IMG_0903.JPG">
+="./bilder/pfeilbau1/M_IMG_0903.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0903.JPG"target=_blank>[1024]
+
+
+Da das Isorohr länger ist als der Korken, befindet sich hinten noch ein häßliches  Lock. Das Wird ebenfalls mit Isorohr gefüllt und das Füll-Rohr mit Pattex festgeklebt. 
+Man macht sich das Leben einfacher, wenn man dazu ein Isorohr mit einem deutlich geringeren Durchmesser nimmt.
+
+Der Schaumstoff muss natürlich noch zurechtgeschnitten werden.
+Dazu gibts zwei Möglichkeiten:
+
+="./bilder/pfeilbau1/S_IMG_0904.JPG">
+="./bilder/pfeilbau1/M_IMG_0904.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0904.JPG"target=_blank>[1024]
+
+
+Vorne: Mit einer Bastelklinge an dem Isorohr langschneiden. Dabei kommt man allerdings leicht nach innen und spitzt den Pfeil unkontrolliert zu. Ausserdem kann man auf die Weise die Klingen meist nur für einen einzigen Pfeil verwenden, danach ist sie zu stumpf.
+
+Hinten: Der Pfeil wird auf die Spitze gestellt und von oben nach unten in ein grobes Achteck geschnitten. Das ganze ist in der Vergrösserung besser zu sehen.
+Sieht natürlich schlecht aus und fliegt noch bescheidener.
+Später wird das ganze auf einem Bandschleifer abgeschliffen, das verbessert das Flugverhalten deutlich.
+
+="./bilder/pfeilbau1/S_IMG_0905.JPG">
+="./bilder/pfeilbau1/M_IMG_0905.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0905.JPG"target=_blank>[1024]
+
+
+Im Bild: Vor dem Schleifen und nach dem Schleifen.
+Den Pfeil hält man dabei am Besten so, dass die Spitze in Laufrichtung des Schleifbandes zeigt. Somit zieht die Schleifbewegung am Schaumstoff statt ihn zusammenzudrücken.
+Dabei kann man auch gleich den hinteren Teil der Pfeilspitze rundschleifen (am besten auch vorher mit einer Klinge grob in die richtige Form bringen).
+
+="./bilder/pfeilbau1/S_IMG_0906.JPG">
+="./bilder/pfeilbau1/M_IMG_0906.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0906.JPG"target=_blank>[1024]
+
+
+Um sich Arbeit zu sparen, füllt man das Loch an der Unterseite wie oben beschrieben mit Isorohr-Abfällen (Festkleben mit Pattex hilft :)), rundet das Ganze mit einem Bastelmesser unten grob ab (wie üblich bietet sich eine Achteckform an) und schleift es dann in einem Aufwasch.
+
+
+="./bilder/pfeilbau1/S_IMG_0907.JPG">
+="./bilder/pfeilbau1/M_IMG_0907.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0907.JPG"target=_blank>[1024]
+
+
+Jetzt malen wir den Pfeil mit Latexmilch an. 
+
+="./bilder/pfeilbau1/S_IMG_0908.JPG">
+="./bilder/pfeilbau1/M_IMG_0908.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0908.JPG"target=_blank>[1024]
+
+
+Das Latex soll einen Teil des Schaumstoffes überdecken - das verbessert den Halt und sieht auch noch besser aus. Damit man weiss, wie weit gelatext werden soll, zeichnet man sich das Ende der Latexschicht mit einem Filzschreiber an.
+
+="./bilder/pfeilbau1/S_IMG_0909.JPG">
+="./bilder/pfeilbau1/M_IMG_0909.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0909.JPG"target=_blank>[1024]
+
+
+Achtung: Latexflecken gehen nie wieder aus Kleidung raus. Also: Kittel, Vorsicht oder alte Klamotten. Am besten alles zusammen.
+
+="./bilder/pfeilbau1/S_IMG_0910.JPG">
+="./bilder/pfeilbau1/M_IMG_0910.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0910.JPG"target=_blank>[1024]
+
+
+Sauberer wird die Malkante, wenn man den nicht zu latexenden Teil mit Malerkrepp abklebt. 
+Den sollte man vor dem Trocken wieder abziehen, sonst wird's schwierig.
+
+="./bilder/pfeilbau1/S_IMG_0911.JPG">
+="./bilder/pfeilbau1/M_IMG_0911.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0911.JPG"target=_blank>[1024]
+
+
+Hier sieht man das Klebeband besser.
+
+="./bilder/pfeilbau1/S_IMG_0912.JPG">
+="./bilder/pfeilbau1/M_IMG_0912.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0912.JPG"target=_blank>[1024]
+
+
+Nach 2 Schichten kann man mit gefärbtem Latex anfangen. Ich mische einfach Abtönfarbe in die Latexmilch.
+
+="./bilder/pfeilbau1/S_IMG_0913.JPG">
+="./bilder/pfeilbau1/M_IMG_0913.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0913.JPG"target=_blank>[1024]
+
+
+Nach entfernen des  Malerkrepps hat man eine saubere Farbkante.
+
+="./bilder/pfeilbau1/S_IMG_0914.JPG">
+="./bilder/pfeilbau1/M_IMG_0914.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0914.JPG"target=_blank>[1024]
+
+
+Pfeile beim Trocknen.
+Um sich das Leben einfacher zu machen, bohrt man in eine Holzbohle zu den Pfeilenden passende Löcher (Achtung: die trocknenden Pfeile dürfen sich nicht berühren, sonst kleben sie leicht zusammen).
+
+="./bilder/pfeilbau1/S_IMG_0915.JPG">
+="./bilder/pfeilbau1/M_IMG_0915.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0915.JPG"target=_blank>[1024]
+
+
+Zum Schluss wird das Latex noch mit Talkum abgerieben.
+
+="./bilder/pfeilbau1/S_IMG_0920.JPG">
+="./bilder/pfeilbau1/M_IMG_0920.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0920.JPG"target=_blank>[1024]
+
+
+Und zum Abschluss nochmal das fertige Pfeilende.
+Die Pfeile waren (einigermaßen) mühsam zu fertigen, und dank der gekauften Federn und Nocks etwa 2,50 bis 3,00€ teuer. 
+Aber ich hatte noch nie bessere Larp-Pfeile. Endlich muß ich nicht mehr nach dem einen "guten" Pfeil suchen, wenn ich ein Ziel habe, das ich nicht verfehlen darf.
+Die Pfeile fliegen gerade, stabil und erstaunlich weit.
+
+Viel Spaß und frohes Treffen!
+
+="./bilder/pfeilbau1/S_IMG_0922.JPG">
+="./bilder/pfeilbau1/M_IMG_0922.JPG"target=_blank>[640]
+="./bilder/pfeilbau1/L_IMG_0922.JPG"target=_blank>[1024]
