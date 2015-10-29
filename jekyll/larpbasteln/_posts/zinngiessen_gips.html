@@ -1,0 +1,110 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2015-10-29 14:22:31:09
+categories: larp waffen
+---
+              Zinngießen mit GipsformWie immer beim Zinngießen braucht man in irgendeiner Form ein "Original". 
+Ob es sich um eine (selbstverständlich nicht urheberrechtlich geschützte) Zinnfigur handelt, oder um etwas, das man so nicht zur Hand hat, man braucht ein Ausgangsstück, das kopiert wird.
+In letzterem Falle muss man es halt selber herstellen. 
+Ich habe mich hier bei den Verzierungen für eine Duellpistole für Fimo als Material für das "Original" entschieden; es ist recht billig, einfach zu verarbeiten und stabil.
+
+Am besten formt man das Original auf einer Glasplatte. Das hat folgenden Hintergrund:
+Beim Backen kann es passieren, dass sich das Original (z.B. weil nicht ganz flach hingelegt) verzieht; das ist eher unerwünscht, wel man das Fimo wenn es erstmal gebacken ist, nicht mehr nachformen kann.
+Hier habe ich einfach ein flaches Stück Fimo auf die Glasplatte gelegt und die Form mit einer Nadel "ausgeschnitten".
+
+
+="./bilder/zinngiessen_gips/S_IMG_0570.JPG">
+="./bilder/zinngiessen_gips/M_IMG_0570.JPG"target=_blank>[640]
+="./bilder/zinngiessen_gips/L_IMG_0570.JPG"target=_blank>[1024]
+
+
+Das ist das zweite Verzierungsstück. Ein Hahn braucht auch schliesslich eine Pulverpfanne (aus wenn die hier sehr vereinfacht ist).
+Die Stücke werden nach Anleitung gebacken (30 Minuten bei 180ßC) und dann evtl. mit einem Bastelmesser nachgeschnitten. Je perfekter das Original, desto weniger anstrengende Nacharbeiten sind nachher beim Gießstück zu machen.
+
+="./bilder/zinngiessen_gips/S_IMG_0571.JPG">
+="./bilder/zinngiessen_gips/M_IMG_0571.JPG"target=_blank>[640]
+="./bilder/zinngiessen_gips/L_IMG_0571.JPG"target=_blank>[1024]
+
+
+Dann braucht man noch eine Form; ich habe einfach dünne Holzleisten genommen, sie zugesägt und zusammengetaped. Auch der Boden des Kastens ist aus Tape.
+
+="./bilder/zinngiessen_gips/S_IMG_0583.JPG">
+="./bilder/zinngiessen_gips/M_IMG_0583.JPG"target=_blank>[640]
+="./bilder/zinngiessen_gips/L_IMG_0583.JPG"target=_blank>[1024]
+
+
+Nun wird Gips recht dünnflüssig angerührt und in die Form gegossen (ungefähr halb voll).
+
+="./bilder/zinngiessen_gips/S_IMG_0584.JPG">
+="./bilder/zinngiessen_gips/M_IMG_0584.JPG"target=_blank>[640]
+="./bilder/zinngiessen_gips/L_IMG_0584.JPG"target=_blank>[1024]
+
+
+Man wartet, bis der Gips leicht (!) angezogen hat und drückt die Originale in den Gips. Wenn das Original nicht aus Plastik besteht so wie hier, ist es oft ratsam, es mit Vaseline oder Nivea-Creme einzuschmieren.
+
+="./bilder/zinngiessen_gips/S_IMG_0585.JPG">
+="./bilder/zinngiessen_gips/M_IMG_0585.JPG"target=_blank>[640]
+="./bilder/zinngiessen_gips/L_IMG_0585.JPG"target=_blank>[1024]
+
+
+Dann macht man noch ein paar Vertiefungen in den Gips; diese Knubbel halten nachher die Formhälften passend aufeinander.
+Jetzt muss erstmal gewartet werden, bis der Gips richtig hart ist. Das dauert grob 12-24 Stunden.
+
+="./bilder/zinngiessen_gips/S_IMG_0586.JPG">
+="./bilder/zinngiessen_gips/M_IMG_0586.JPG"target=_blank>[640]
+="./bilder/zinngiessen_gips/L_IMG_0586.JPG"target=_blank>[1024]
+
+
+Wenn er denn endlich hart ist, wird die Form entfernt und Luftkanäle in die Form geschnitten; sonst kann nachher beim Gießen die Luft nicht entweichen und das Zinn füllt die Form nicht vollständig aus.
+Danach klebt man die Form wieder drum.
+
+="./bilder/zinngiessen_gips/S_IMG_0587.JPG">
+="./bilder/zinngiessen_gips/M_IMG_0587.JPG"target=_blank>[640]
+="./bilder/zinngiessen_gips/L_IMG_0587.JPG"target=_blank>[1024]
+
+
+Danach wird die Oberfläche dünn mit Vaseline oder Nivea eingerieben, damit der neue Gips nicht zu sehr an dem Alten haftet.
+Neuen Gips anrühren und draufgiessen, bis die Form voll ist.
+Das hier gezeigte Ergebnis ist übrigends extrem bescheiden; viel zu viele Luftbläschen hatte sich unten gesammelt. Da fliesst das Zinn natürlich auch rein.
+Dieser Effekt lässt sich mildern oder vermeiden, wenn man mit der Form nach dem Einfüllen des frischen Gipsbreies etwa 5 Minuten lang immer wieder vorsichtig auf den Tisch klopft; dabei lösen sich die Luftblasen und steigen nach oben.
+Nach weiteren 24 Stunden Trocknung kann man die Hälften auseinander nehmen und das Positiv entfernen.
+
+="./bilder/zinngiessen_gips/S_IMG_0588.JPG">
+="./bilder/zinngiessen_gips/M_IMG_0588.JPG"target=_blank>[640]
+="./bilder/zinngiessen_gips/L_IMG_0588.JPG"target=_blank>[1024]
+
+
+Jetzt werden auf der zweiten Hälfte die Grate, die den Luftkanälen der Anderen Seite entsprechen abgeschliffen oder abgeschabt und das Giessloch eingeschnitten.
+Wichtig:
+Jetzt muss die Form erstmal 2-10 Tage ordentlich druchtrochnen oder 24 Stunden bei 80-100ßC im Backofen getrocknet werden.
+Das ist keine Schikane; wenn ihr das flüssige Zinn (250-300 ßC) in eine zu feuchte Form füllt, spuckt sie euch wegen des schlagartig verkochenden Wassers flüssiges Metall ins Gesicht.
+
+="./bilder/zinngiessen_gips/S_IMG_0591.JPG">
+="./bilder/zinngiessen_gips/M_IMG_0591.JPG"target=_blank>[640]
+="./bilder/zinngiessen_gips/L_IMG_0591.JPG"target=_blank>[1024]
+
+
+Wenn die Formhälften trocken sind, werden sie grosszügig mit Talkum gepudert. Das erleichtert das Einfliessen des Zinns und das Auslösen des fertigen Gußstückes erheblich.
+Die Hälften werden mit mehreren Gummibändern zusammengehalten, das Zinn in einem Schmelztigel mit Griff (~ 8-10 Euro) über einer Lötlampe geschmolzen (Esbitkocher geht mit viel Geduld auch) und vorsichtig in die Form gegossen. SCHUTZBRILLE tragen!
+
+
+="./bilder/zinngiessen_gips/S_IMG_0592.JPG">
+="./bilder/zinngiessen_gips/M_IMG_0592.JPG"target=_blank>[640]
+="./bilder/zinngiessen_gips/L_IMG_0592.JPG"target=_blank>[1024]
+
+
+Nach etwa 5 bis zehn Minuten kann man die Form auseinander machen und die Gußstücke mit einer Zange entnehmen; sie sollten noch recht heiss sein, also Achtung.
+Dabei beschädigt man leicht die Form; dieses Verfahren ist also eher was für eine einmalige Kopie. Dafür ist Gips aber auch billig.
+Nebenan sieht man nochmal Original und die Kopie, so wie sie aus der Gussform kommt. Die Gussgrate werden abgeschnitten oder geschliffen, der Gießfuss abgesägt und das ganze poliert.
+Das geht recht gut mit der Drahtbürste an einem Dremel oder ähnlichem Werkzeug.
+Wenn man viele Kopienen (bis zu 100 oder mehr) eines Stückes machen will, empfiehlt es sich, eine Kautschukform zu verwenden.
+
+="./bilder/zinngiessen_gips/S_IMG_0593.JPG">
+="./bilder/zinngiessen_gips/M_IMG_0593.JPG"target=_blank>[640]
+="./bilder/zinngiessen_gips/L_IMG_0593.JPG"target=_blank>[1024]
+
+
+
+        
+    
